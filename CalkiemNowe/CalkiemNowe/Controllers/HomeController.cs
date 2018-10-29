@@ -15,7 +15,7 @@ namespace CalkiemNowe.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.11111111111111111111";
+            ViewBag.Message = "Your application description page.22222222222";
 
             return View();
         }
