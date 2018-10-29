@@ -22,7 +22,7 @@ namespace CalkiemNowe.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact pagetest.";
 
             return View();
         }
